@@ -21,17 +21,17 @@
 
 ## [Week3]() :
 
-  ###[Permuting Two Arrays]()
+  ### [Permuting Two Arrays]()
   
-  ###[Subarray Division 2]()
+  ### [Subarray Division 2]()
   
-  ###[XOR Strings 3]()
+  ### [XOR Strings 3]()
   
-  ###[Sales by Match]()
+  ### [Sales by Match]()
   
-  ###[Migratory Birds]()
+  ### [Migratory Birds]()
   
-  ###[Maximum Perimeter Triangle]()
+  ### [Maximum Perimeter Triangle]()
   
   ###[Zig Zag Sequence]()
   
