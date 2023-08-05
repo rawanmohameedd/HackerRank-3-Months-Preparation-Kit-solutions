@@ -22,22 +22,39 @@
 ## [Week3]() :
 
   ###[Permuting Two Arrays]()
+  
   ###[Subarray Division 2]()
+  
   ###[XOR Strings 3]()
+  
   ###[Sales by Match]()
+  
   ###[Migratory Birds]()
+  
   ###[Maximum Perimeter Triangle]()
+  
   ###[Zig Zag Sequence]()
+  
   ###[Drawing Book]()
+  
   ###[Mock test 3]()
 
-## [Week4]()
+## [Week4]() :
+  
   ###[Picking Numbers]()
+  
   ###[Left Rotation]()
+  
   ###[Number Line Jumps]()
+  
   ###[Separate the Numbers]()
+  
   ###[Closest Numbers]()
+  
   ###[Tower Breakers]()
+  
   ###[Minimum Absolute Difference in an Array]()
+  
   ###[Caesar Cipher]()
+  
   ###[Mock Test 4]()
