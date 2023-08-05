@@ -19,7 +19,8 @@
    ### [Mars Exploration](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Week2/Mars%20Exploration.cpp)
    ### [Mock Test 2](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Mock%20Tests/Mock%20Test%202.cpp)
 
-## [Week3]()
+## [Week3]() :
+
   ###[Permuting Two Arrays]()
   ###[Subarray Division 2]()
   ###[XOR Strings 3]()
