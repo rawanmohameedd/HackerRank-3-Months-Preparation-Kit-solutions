@@ -21,15 +21,15 @@
 
 ## [Week3]() :
 
-  ### [Permuting Two Arrays]()
+  ### [Permuting Two Arrays](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Week3/Permuting%20two%20arrays.cpp)
   
-  ### [Subarray Division 2]()
+  ### [Subarray Division 2](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Week3/Subarray%20Division%202.cpp)
   
-  ### [XOR Strings 3]()
+  ### [XOR Strings 3](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Week3/XOR%20Strings%203.cpp)
   
-  ### [Sales by Match]()
+  ### [Sales by Match](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Week3/Sales%20by%20Match.cpp)
   
-  ### [Migratory Birds]()
+  ### [Migratory Birds](https://github.com/rawanmohameedd/HackerRank-3-Months-Preparation-Kit-solutions/blob/main/Week3/Migratory%20Birds.cpp)
   
   ### [Maximum Perimeter Triangle]()
   
